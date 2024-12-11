@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 # Sample data points for x and y
 x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-y = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+y = [2, 4, 5, 7, 6, 8, 9, 10, 12, 13]
 
 # Create the scatter plot
 plt.scatter(x, y, color='blue', marker='o')
